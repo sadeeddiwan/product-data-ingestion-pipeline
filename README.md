@@ -263,7 +263,25 @@ Logging & Monitoring
 
 Configuration Management
 
-Documentation---
+Documentation
+
+## 📸 Dashboard Preview
+
+### Main Dashboard
+
+![Dashboard Overview](screenshots/dashboard_3.png)
+
+### Analytics & Data Browser
+
+![Dashboard Analytics](screenshots/dashboard_2.png)
+
+![Dashboard Analytics](screenshots/dashboard_1.png)
+
+![Dashboard Analytics](screenshots/dashboard_4.png)
+
+![Dashboard Analytics](screenshots/dashboard_5.png)
+
+![Dashboard Analytics](screenshots/dashboard_6.png)
 
 ## 🔧 Configuration
 
@@ -335,9 +353,11 @@ Every pipeline run appends to `logs/pipeline.log`:
 ---
 
 ## 👤 Author
+
 Sadeed Naeem
 
 M.Sc. Software Engineering Student
+
 Hochschule Heilbronn, Germany
 
 Interests:
