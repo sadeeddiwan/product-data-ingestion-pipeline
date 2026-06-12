@@ -1,0 +1,12 @@
+# ── Core scraping ─────────────────────────────────────────────────────────────
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# ── Data processing ───────────────────────────────────────────────────────────
+pandas==2.3.0
+
+# ── Dashboard ─────────────────────────────────────────────────────────────────
+streamlit==1.37.0
+plotly==5.23.0
+
+# ── SQLite is part of Python stdlib — no extra package needed ─────────────────
