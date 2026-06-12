@@ -275,13 +275,13 @@ Documentation
 
 ![Dashboard Analytics](screenshots/dashboard_2.png)
 
-![Dashboard Analytics](screenshots/dashboard_1.png)
+![Distribution Analysis](screenshots/dashboard_1.png)
 
-![Dashboard Analytics](screenshots/dashboard_4.png)
+![Dataset Browser](screenshots/dashboard_4.png)
 
-![Dashboard Analytics](screenshots/dashboard_5.png)
+![Price Analysis](screenshots/dashboard_5.png)
 
-![Dashboard Analytics](screenshots/dashboard_6.png)
+![Top 10 Most Expensive Books](screenshots/dashboard_6.png)
 
 ## 🔧 Configuration
 
